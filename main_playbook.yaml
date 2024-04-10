@@ -1,0 +1,3 @@
+- hosts: your_hosts
+  roles:
+    - docker-compose-role
